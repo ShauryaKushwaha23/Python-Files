@@ -1,0 +1,2 @@
+fy = input(">")
+print(fy)
